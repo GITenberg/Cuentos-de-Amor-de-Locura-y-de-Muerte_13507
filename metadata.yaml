@@ -18,6 +18,8 @@ creator:
     - http://en.wikipedia.org/wiki/Horacio_Quiroga
     - http://es.wikipedia.org/wiki/Horacio_Quiroga
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13507#Cuentos-de-Amor-de-Locura-y-de-Muerte
 gutenberg_issued: '2004-09-20'
 gutenberg_type: Text
 identifiers:
