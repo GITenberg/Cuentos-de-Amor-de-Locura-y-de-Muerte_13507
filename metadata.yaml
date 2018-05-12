@@ -1,0 +1,38 @@
+_repo: Cuentos-de-Amor-de-Locura-y-de-Muerte_13507
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Quiroga, Horacio
+    aliases:
+    - Quiroga, H. (Horacio)
+    - Forteza, Horacio Silvestre Quiroga
+    - Silvestre Quiroga Forteza, Horacio
+    birthdate: 1878
+    deathdate: 1937
+    gutenberg_agent_id: '5094'
+    url: http://www.gutenberg.org/2009/agents/5094
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Horacio_Quiroga
+    - http://es.wikipedia.org/wiki/Horacio_Quiroga
+description: ''
+gutenberg_issued: '2004-09-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13507'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Short stories, Uruguayan'
+tableOfContents: Una estación de amor -- Los ojos sombríos -- El solitario -- La muerte
+  de Isolda -- El infierno artificial -- La gallina degollada -- Los buques suicidantes
+  -- El almohadón de pluma -- El perro rabioso -- A la deriva -- La insolación --
+  El alambre de púa -- Los Mensú -- Yaguaí -- Los pescadores de vigas -- La miel silvestre
+  -- Nuestro primer cigarro -- La meningitis y su sombra.
+title: Cuentos de Amor de Locura y de Muerte
+url: http://www.gutenberg.org/ebooks/13507
